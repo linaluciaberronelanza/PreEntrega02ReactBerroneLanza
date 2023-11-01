@@ -1,6 +1,6 @@
 import React from 'react';
-import ItemListContainer from './componentes/ItemListContainer/ItemListContainer';
-import ItemDetailContainer from './componentes/ItemDetailContainer/ItemDetailContainer';
+import ItemListContainer from './Componentes/ItemListContainer/ItemListContainer';
+import ItemDetailContainer from './Componentes/ItemDetailContainer/ItemDetailContainer';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import NavBarra from './Componentes/NavBarra/NavBarra';
 
